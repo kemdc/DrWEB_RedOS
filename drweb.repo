@@ -1,0 +1,6 @@
+[drweb]
+name=DrWeb - 11.1
+baseurl=https://repo.drweb.com/drweb/linux/11.1/$basearch/
+gpgcheck=1
+enabled=1
+gpgkey=https://repo.drweb.com/drweb/drweb.key
